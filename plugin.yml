@@ -1,0 +1,7 @@
+name: Crates
+version: 1.0
+author: Afterburner0128
+main: Com.Vance.Speedcoding.E6_Crates.Main
+commands:
+   craterandom:
+   cratestorage:

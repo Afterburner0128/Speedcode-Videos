@@ -1,0 +1,29 @@
+#Plugin.yml's For Each Episode#
+
+Episode 1:
+   name: SimpleEconomy
+   version: 1.0
+   author: Afterburner0128
+   main: Com.Vance.Speedcoding.E1_SimpleEconomy.SimpleEconomy
+Episode 2:
+   name: VotingSystem
+   version: 1.0
+   author: Afterburner0128
+   main: Com.Vance.Speedcoding.E2_VotingSystem.VotingSystem
+Episode 5:
+   name: Transportation
+   version: 2.0
+   author: Afterburner0128
+   main: Com.Vance.Speedcoding.E5_Transportation.Main
+   depend: [ProtocolLib]
+   commands:
+      car:
+      plane:
+Episode 6:
+   name: Crates
+   version: 1.0
+   author: Afterburner0128
+   main: Com.Vance.Speedcoding.E6_Crates.Main
+   commands:
+      craterandom:
+      cratestorage:
